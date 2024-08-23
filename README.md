@@ -11,9 +11,9 @@ Download the repo, click on the .exe file and make your custom icons! 🎨
 ## Preview
 
 
-![icobroimg](https://github.com/MatijaMax/ico-bro/assets/116630740/d9e187a6-147c-4597-b6d9-263a40e57f4a)
 
 
+![Screenshot (102)](https://github.com/user-attachments/assets/42f8b1a6-4e5b-40ca-9df3-acdca2610988)
 
 
 ## 
